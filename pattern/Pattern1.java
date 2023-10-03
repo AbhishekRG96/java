@@ -1,6 +1,7 @@
+package pattern;
 import java.io.*;
 
-class Pattern2{
+class Pattern1{
     public static void main(String[] args)throws IOException {
         
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
