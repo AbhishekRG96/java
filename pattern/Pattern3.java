@@ -12,7 +12,7 @@ class Pattern3{
         Pattern1 obj = new Pattern1();
         obj.pattern(n);
     }
-
+// pattern
     void pattern(int n){
         for(int i =0;i<n;i++){
             for(int j =0;j<n;j++){
